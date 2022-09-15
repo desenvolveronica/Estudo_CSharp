@@ -1,0 +1,15 @@
+D:\CursoCSharp\obj\Debug\net6.0\CursoCSharp.csproj.AssemblyReference.cache
+D:\CursoCSharp\obj\Debug\net6.0\CursoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\CursoCSharp\bin\Debug\net6.0\CursoCSharp.exe
+D:\CursoCSharp\bin\Debug\net6.0\CursoCSharp.deps.json
+D:\CursoCSharp\bin\Debug\net6.0\CursoCSharp.runtimeconfig.json
+D:\CursoCSharp\bin\Debug\net6.0\CursoCSharp.dll
+D:\CursoCSharp\bin\Debug\net6.0\CursoCSharp.pdb
+D:\CursoCSharp\obj\Debug\net6.0\CursoCSharp.AssemblyInfoInputs.cache
+D:\CursoCSharp\obj\Debug\net6.0\CursoCSharp.AssemblyInfo.cs
+D:\CursoCSharp\obj\Debug\net6.0\CursoCSharp.csproj.CoreCompileInputs.cache
+D:\CursoCSharp\obj\Debug\net6.0\CursoCSharp.dll
+D:\CursoCSharp\obj\Debug\net6.0\refint\CursoCSharp.dll
+D:\CursoCSharp\obj\Debug\net6.0\CursoCSharp.pdb
+D:\CursoCSharp\obj\Debug\net6.0\CursoCSharp.genruntimeconfig.cache
+D:\CursoCSharp\obj\Debug\net6.0\ref\CursoCSharp.dll
