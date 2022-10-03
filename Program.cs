@@ -1,3 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, Viviane!");
+Console.WriteLine("Hello, Diva!");
+//Em program.css fica o código fonte da aplicação
 
