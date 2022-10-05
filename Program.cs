@@ -36,3 +36,9 @@ Console.WriteLine(value4);
 
 Console.WriteLine("O CSharp é uma linguagem de tipagem estática");
 Console.WriteLine("O compilador verifica se estamos usqando os tipos de forma correta");
+Console.WriteLine(" ");
+Console.WriteLine("A partir do momento que é feito a definição do tipo da variável, esse tipo é estático e não pode ser alterado");
+Console.WriteLine("JavaScript é uma linguagem de tipagem dinâmica");
+Console.WriteLine("TypeScript é de tipagem estática durante o tempo de compilação");
+Console.WriteLine(" ");
+Console.WriteLine("O namespace é o System onde o console é uma classe");
