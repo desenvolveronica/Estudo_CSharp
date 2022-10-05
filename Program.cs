@@ -42,3 +42,7 @@ Console.WriteLine("JavaScript é uma linguagem de tipagem dinâmica");
 Console.WriteLine("TypeScript é de tipagem estática durante o tempo de compilação");
 Console.WriteLine(" ");
 Console.WriteLine("O namespace é o System onde o console é uma classe");
+Console.WriteLine("A classe console é estática ou seja, não podemos criar um objeto do tipo console");
+Console.WriteLine("A classe console não pode ser herdada");
+Console.WriteLine(" ");
+Console.WriteLine("Um namespace é uma forma lógica de organizar tipos");
