@@ -31,5 +31,8 @@ Console.WriteLine(value3);
 
 //TERNÁRIO
 
-var value4 = value3 == 42 ? true : false;
+var value4 = value3 == 42 ? 10 : 20;
 Console.WriteLine(value4);
+
+Console.WriteLine("O CSharp é uma linguagem de tipagem estática");
+Console.WriteLine("O compilador verifica se estamos usqando os tipos de forma correta");
