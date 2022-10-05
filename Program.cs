@@ -1,4 +1,22 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿//programa pra calcular a idade de uma pessoa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, Diva!");
 //Em program.css fica o código fonte da aplicação
 //dotnet run => para compilar e executar
@@ -46,3 +64,7 @@ Console.WriteLine("A classe console é estática ou seja, não podemos criar um 
 Console.WriteLine("A classe console não pode ser herdada");
 Console.WriteLine(" ");
 Console.WriteLine("Um namespace é uma forma lógica de organizar tipos");
+Console.WriteLine("Édeclarado o namespace e dentro dele é declarado os membros");
+Console.WriteLine(" ");
+
+Console.WriteLine("Uma string também possue membros de instância que acessamos com o ponto(.)");
