@@ -15,6 +15,12 @@ Console.WriteLine($"Olá {name} nascida em {ano}");
 //onde colocamos a chamada do ReadLine() dentro para converter
 int result = 2022 - ano;
 Console.WriteLine($"Calculando descobri que você, {name}, tem {result} anos");
+Console.Write("Você está estudando qual linguagem? ");
+string linguagem = Console.ReadLine(); //readline é onde o user vai escrever
+
+Console.WriteLine($"Entendi! você {name} possui {result} anos e está estudando {linguagem}...");
+
+
 
 
 
