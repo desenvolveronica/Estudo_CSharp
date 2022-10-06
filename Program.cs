@@ -15,12 +15,14 @@ Console.WriteLine($"Olá {name} nascida em {ano}");
 //onde colocamos a chamada do ReadLine() dentro para converter
 int result = 2022 - ano;
 Console.WriteLine($"Calculando descobri que você, {name}, tem {result} anos");
-Console.Write("Você está estudando qual linguagem? ");
+Console.Write("Você está estudando qual linguagem de programação? ");
 string linguagem = Console.ReadLine(); //readline é onde o user vai escrever
-
-Console.WriteLine($"Entendi! você {name} possui {result} anos e está estudando {linguagem}...");
-
-
+//fazendo if com a variável linguagem
+if(linguagem == "css" ){
+          Console.WriteLine("Atenção!! css não é linguagem de programação");
+}else{
+          Console.WriteLine($"Entendi! você {name} possui {result} anos e está estudando {linguagem}...");
+}
 
 
 
