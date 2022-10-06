@@ -14,7 +14,7 @@ Console.WriteLine($"Olá {name} nascida em {ano}");
 //utilizando o método para converter string em numero INT.PARSE()
 //onde colocamos a chamada do ReadLine() dentro para converter
 int result = 2022 - ano;
-Console.WriteLine($"Calculando descobri que você tem {result} anos");
+Console.WriteLine($"Calculando descobri que você, {name}, tem {result} anos");
 
 
 
