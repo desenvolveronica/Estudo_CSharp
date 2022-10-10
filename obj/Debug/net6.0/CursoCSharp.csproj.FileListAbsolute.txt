@@ -1,5 +1,4 @@
 D:\CursoCSharp\obj\Debug\net6.0\CursoCSharp.csproj.AssemblyReference.cache
-D:\CursoCSharp\obj\Debug\net6.0\CursoCSharp.GeneratedMSBuildEditorConfig.editorconfig
 D:\CursoCSharp\bin\Debug\net6.0\CursoCSharp.exe
 D:\CursoCSharp\bin\Debug\net6.0\CursoCSharp.deps.json
 D:\CursoCSharp\bin\Debug\net6.0\CursoCSharp.runtimeconfig.json

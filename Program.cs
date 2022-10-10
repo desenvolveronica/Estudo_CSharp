@@ -6,7 +6,14 @@ string name = Console.ReadLine();
 // Console.WriteLine("As strings no CSharp sempre vai usar aspas duplas");
 Console.WriteLine(" ");
 // Console.WriteLine("Fazendo interpolação antes das áspas duplas coloca o $ e a variável dentro de {}");
-Console.WriteLine($"Olá, como você está, {name} ?");
+Console.Write($"Olá, como você está, {name} ?");
+string estado = Console.ReadLine();
+
+if(estado == "bem"){
+          Console.WriteLine("Fico feliz que esteja bem");
+}else Console.WriteLine("Estude mais um pouco e tudo melhora");
+
+
 Console.Write("Digite o ano do seu nascimento: ");
 int ano = int.Parse(Console.ReadLine());
 Console.WriteLine($"Olá {name} nascida em {ano}");
@@ -63,7 +70,7 @@ if(numero == 1 || name == "diva"){
 
 // See https://aka.ms/new-console-template for more information
 //Em program.css fica o código fonte da aplicação
-//dotnet run => para compilar e executar
+//dotn run => para compilar e executar
 // Console.WriteLine("WriteLine é um método");
 // Console.WriteLine("Para criar uma variável precisamos especificar o tipo dela");
 // Console.WriteLine("Podemos usar a vírgula e criar mais de uma variável do mesmo tipo");
