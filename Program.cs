@@ -14,7 +14,15 @@ Console.WriteLine($"Olá {name} nascida em {ano}");
 //utilizando o método para converter string em numero INT.PARSE()
 //onde colocamos a chamada do ReadLine() dentro para converter
 int result = 2022 - ano;
-Console.WriteLine($"Calculando descobri que você, {name}, tem {result} anos");
+
+if(result >= 18  && name == "diva"){
+          Console.WriteLine($"Calculando descobri que você, Divona, tem {result} anos");}
+          else if (result >= 18){
+                    Console.WriteLine($"Calculando descobri que você, {name}, tem {result} anos");
+          } else {
+                    Console.WriteLine($"Ixi você é menor de idade pois tem {result} anos");
+          }
+
 Console.Write("Você está estudando qual linguagem de programação? ");
 string linguagem = Console.ReadLine(); //readline é onde o user vai escrever
 //fazendo if com a variável linguagem
@@ -22,6 +30,20 @@ if(linguagem == "css" ){
           Console.WriteLine("Atenção!! css não é linguagem de programação");
 }else{
           Console.WriteLine($"Entendi! você {name} possui {result} anos e está estudando {linguagem}...");
+}
+
+Console.Write("Digite um número de 1 a 5: ");
+int numero = Console.Read();
+
+if(numero == 1 || name == "diva"){
+          // || é equivalente ao OU
+          Console.WriteLine("Eu sei que vc escolheu 1 ou se chama diva");
+}else if(numero == 2 || name == "diva"){
+          Console.WriteLine("Eu sei que você escolheu 2 ou se chama diva");
+}else if(numero == 3){
+          Console.WriteLine("Eu se que você escolheu 3");
+}else{
+          Console.WriteLine($"Sua situação {name} é profunda");
 }
 
 
